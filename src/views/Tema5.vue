@@ -56,7 +56,7 @@
       .row.mt-5
         p Para conocer otros aspectos de suma importancia, relativos al plan post consumo, se debe visualizar el siguiente recurso didáctico:
 
-      .tarjeta.tarjeta--azul.p-4
+      .tarjeta.tarjeta--azul.p-4.tema5-bg2
         SlyderA(tipo="b")
           .row
             .col-md-6.mb-4.mb-md-0
