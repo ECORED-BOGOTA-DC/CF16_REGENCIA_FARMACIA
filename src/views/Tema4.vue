@@ -155,14 +155,197 @@
 
 
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").mt-5
-        .row(titulo="Titulo item 1")
+        .row(titulo="Manejo apropiado y responsable")
           .col-md-6.mb-4.mb-md-0
-            p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
+            p En los servicios farmacéuticos, los residuos de fármacos o medicamentos parcialmente utilizados, vencidos y/o deteriorados, al igual que los empaques (blíster, frascos, viales), deben tener un manejo apropiado y responsable, de conformidad con el Decreto 2676/2000. 
         
           .col-md-6
             figure
-              img(src='@/assets/template/img-placeholder.svg', alt='Texto que describa la imagen')
-              figcaption Leyenda de la imagen
+              img(src='@/assets/curso/temas/tema4/img4.png', alt='Texto que describa la imagen')
+
+
+        .row(titulo="Acciones preventivas del manejo")
+          .col-md-6.mb-4.mb-md-0
+            p Es importante aclarar que los empaques y envases que no hayan estado en contacto directo con los residuos de fármacos, como por ejemplo cajas o bolsas de papel, podrán ser reciclados previa inutilización de los mismos, ósea destruidos o rasgados, con el fin de garantizar que estos residuos no lleguen al mercado ilegal para ser falsificados.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema4/img5.png', alt='Texto que describa la imagen')
+
+        .row(titulo="Código de colores")
+          .col-md-6.mb-4.mb-md-0
+            p El código de colores debe implementarse tanto para los recipientes rígidos reutilizables como para las bolsas y recipientes desechables. De acuerdo con la Resolución 218 de 2019, se ha establecido un nuevo código de colores para distinguir la fuente y el tratamiento final de los residuos o residuos producidos en hogares, oficinas o negocios.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema4/img6.png', alt='Texto que describa la imagen')
+
+
+        .row(titulo="Blanco")
+          .col-md-6.mb-4.mb-md-0
+            p Depositar residuos aprovechables como plástico, vidrio, metales, papel y cartón.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema4/img7.png', alt='Texto que describa la imagen')
+
+        .row(titulo="Negro")
+          .col-md-6.mb-4.mb-md-0
+            p Depositar residuos no aprovechables como papel higiénico, servilletas, papeles y cartones contaminados con comida, papeles metalizados, entre otros.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema4/img8.png', alt='Texto que describa la imagen')
+
+
+        .row(titulo="Verde")
+          .col-md-6.mb-4.mb-md-0
+            p Depositar residuos orgánicos aprovechables, como los restos de comidas, desechos agrícolas, etc.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema4/img9.png', alt='Texto que describa la imagen')
+
+        .row(titulo="Contenedor de residuos corto punzantes")
+          .col-md-6.mb-4.mb-md-0
+            p Son rígidos, en polipropileno de alta densidad u otro polímero que no contenga P.V.C. Resistentes a rupturas y perforaciones por elementos corto punzantes, con tapa ajustable o de rosca, boca angosta, cierre hermético, rotulados debidamente, livianos y con capacidad no mayor a 2 litros.
+        
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/tema4/img10.png', alt='Texto que describa la imagen')
+
+      separador
+
+      #t_4_4.titulo-segundo.color-acento-contenido
+        h2 4.4  Gestión interna
+
+      .row.justify-content-center.align-items-center.tema4-bg2.p-2
+        .col-4
+          figure
+              img(src='@/assets/curso/temas/tema4/img11.png', alt='Texto que describa la imagen')
+        .col-8
+          p Con el fin de garantizar el cumplimiento del PGIRH, Plan de Gestión Integral de Residuos Hospitalarios, se establecen mecanismos y procedimientos que permitan evaluar la ejecución de los procesos y procedimientos que incluye el plan a realizar, durante la marcha, los ajustes pertinentes. Entre los instrumentos que permiten monitorear esta función se encuentran los indicadores y las auditorías internas. Para el manejo de indicadores, se estandarizan los registros de generación de residuos y reportes de salud ocupacional.
+
+          p <b>El control interno, encierra la implementación de todas las actividades a realizar dentro de una unidad que genera residuos hospitalarios, etc. Esto incluye la generación, la clasificación o segregación en la fuente, la manipulación interna, el almacenamiento y la transferencia a proveedores de servicios de limpieza especializada en función de criterios técnicos, económicos, sanitarios y medioambientales.</b>
+
+
+      .tarjeta.color-secundario.p-3.mb-5.mt-5
+        .row.justify-content-around.align-items-center
+          .col-10
+            .row.justify-content-around.align-items-center
+              .col-3.col-sm-2.col-lg-1
+                img(src="@/assets/curso/temas/tema4/img12.png")
+              .col
+                .row.justify-content-between.align-items-center
+                  .col.mb-3.mb-sm-0
+                    p.text-white Para conocer los instrumentos de registro que favorecen el proceso de gestión interna en el manejo de residuos, visite el Anexo_1_GestionInterna. Recuerde consignar sus conclusiones e información asimilada en su libreta personal de apuntes.
+                  .col-sm-auto
+                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                      span Descargar
+                      i.fas.fa-file-download
+
+
+      separador
+
+      #t_4_5.titulo-segundo.color-acento-contenido
+        h2 4.5  Gestión externa 
+
+      .row
+        .col-1
+          figure 
+            img(src='@/assets/curso/temas/tema4/img13.png', alt='Texto que describa la imagen')
+        .col-11
+          p Es una serie de actividades en el manejo de residuos que se llevan a cabo fuera del sitio generador, tales como recolección en la fuente, trasporte, desactivación, desnaturalización, tratamiento y / o disposición final.
+
+
+      TabsB.color-primario.mt-5
+        .py-4.py-md-5(titulo="¿Quién puede realizarla?" :icono="require('@/assets/curso/temas/tema4/img14.svg')")
+          .row
+            .col-md-6.mb-4.mb-md-0
+              h4 ¿Quién puede realizarla?
+              p La gestión de residuos hospitalarios y similares podrá ser realizada por el mismo fabricante o subcontratada con una empresa de limpieza especializada, en cuyo caso se deberán seguir las normas y procedimientos establecidos por la legislación medioambiental y sanitaria actual. 
+          
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/tema4/img17.png', alt='Texto que describa la imagen')
+
+        .py-4.py-md-5(titulo="Registro y control permanentes" :icono="require('@/assets/curso/temas/tema4/img15.svg')")
+          .row
+            .col-md-6.mb-4.mb-md-0
+              h4 Registro y control permanentes
+              p El proveedor del servicio de limpieza especial debe declarar la cantidad de residuos suministrados por el generador y cumplir con las pautas descritas en el manual, en cuanto a las condiciones en las que el generador suministra los residuos.
+          
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/tema4/img18.png', alt='Texto que describa la imagen')
+
+        .py-4.py-md-5(titulo="Procesos orientados por la normatividad" :icono="require('@/assets/curso/temas/tema4/img16.svg')")
+          .row
+            .col-md-6.mb-4.mb-md-0
+              h4 Procesos orientados por la normatividad
+              p Estos formularios deben estar a disposición de las autoridades, ser diligenciados diariamente, con el fin de efectuar un consolidado mensual, el cual debe ser presentado semestralmente a la autoridad ambiental competente.
+          
+            .col-md-6
+              figure
+                img(src='@/assets/curso/temas/tema4/img19.png', alt='Texto que describa la imagen')
+
+
+      separador
+
+      #t_4_6.titulo-segundo.color-acento-contenido
+        h2 4.6  Residuos peligrosos RESPEL
+
+      p Se entiende por <b>“residuos peligrosos”</b> a los residuos que debido a su peligrosidad específica (tóxico, corrosivo, reactivo, inflamable, explosivo, infeccioso, eco tóxico), pueden causar daños a la salud de los seres vivos o al ambiente.
+
+      p A continuación, algunas claridades conceptuales de suma importancia para profundizar en este tema:
+
+      .row
+        .col-sm-6.col-lg-3.mb-4.mb-lg-0
+          .tarjeta--boton.color-primario.p-4.tarjeta-height
+            .row.justify-content-center.mb-3
+              .col-4
+                figure
+                  img(src='@/assets/curso/temas/tema4/img20.svg', alt='Texto que describa la imagen')
+
+            h4.text-center El desecho
+            p.text-small.text-center El desecho es aquello que queda después de haber escogido lo mejor y más útil de algo; cosa que, por usada o por cualquier otra razón, no sirve para lo que se hizo. 
+
+        .col-sm-6.col-lg-3.mb-4.mb-lg-0
+          .tarjeta--boton.color-secundario.p-4.tarjeta-height
+            .row.justify-content-center.mb-3
+              .col-4
+                figure
+                  img(src='@/assets/curso/temas/tema4/img21.svg', alt='Texto que describa la imagen')
+
+            h4.text-center El residuo
+            p.text-small.text-center El residuo en cambio, es la parte o porción que queda de un todo; es aquello que resulta de la descomposición o destrucción de algo. Es el material que queda como inservible, después de realizado un trabajo u operación.
+
+        .col-sm-6.col-lg-3.mb-4.mb-sm-0
+          .tarjeta--boton.p-4.tarjeta-height
+            .row.justify-content-center.mb-3
+              .col-4
+                figure
+                  img(src='@/assets/curso/temas/tema4/img22.svg', alt='Texto que describa la imagen')
+
+            h4.text-center RESPEL
+            p.text-small.text-center Sin embargo, en el decreto 4741 de 2005, los términos <b>“residuo”</b> y <b>desecho</b> fueron equiparados para optimizar su gestión y manejo. Este mismo decreto estableció que un <b>RESPEL</b> <i> “es aquel residuo o desecho que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables, infecciosas o radiactivas puede causar riesgo o daño para la salud humana y el ambiente”.</i>
+
+        .col-sm-6.col-lg-3
+          .tarjeta--boton.p-4.tarjeta-height
+            .row.justify-content-center.mb-3
+              .col-4
+                figure
+                  img(src='@/assets/curso/temas/tema4/img23.svg', alt='Texto que describa la imagen')
+
+            h4.text-center Peligro por contacto
+            p.text-small.text-center Así mismo, se considera residuo o desecho peligroso a los envases, empaques y embalajes que hayan estado en contacto con ellos.
+
+      p.mt-5 Para conocer las fuentes generadoras de residuos peligrosos y fijar mayor claridad sobre este tema, se debe dirigir al recurso que, a continuación, se presenta:
+
+      .row.my-5(data-aos="fade-zoom")
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/11111111" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
   </template>
 
