@@ -159,13 +159,13 @@
 
     .row.mb-5
       .tarjeta--morada2.py-4.px-5
-        .row 
+        .row.justify-content-center
           .col-8.col-lg-3
-            figure.mt-5
+            figure.mt-5.mb-4
               img(src="@/assets/curso/temas/tema1/img13.svg", alt="alt")
 
           .col-lg-9
-            ul.lista-ul--color
+            ul.lista-ul--color.fa-ul2
               li 
                 i.fas.fa-check
                 | Exigir fórmula médica para medicamentos en los cuales el laboratorio productor así lo exija.            
