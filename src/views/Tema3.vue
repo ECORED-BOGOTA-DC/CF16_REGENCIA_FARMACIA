@@ -7,12 +7,12 @@
         span 3
       h1 Indicadores de gestión
 
-    .row.mb-5
-      .col-6.col-lg-2
+    .row.justify-content-center.mb-5
+      .col-5.col-lg-1
         figure.my-5
-          img(src="@/assets/curso/temas/tema3/img1.svg", alt="alt").img1-tm3
+          img(src="@/assets/curso/temas/tema3/img1.svg", alt="alt")
       
-      .col-lg-6
+      .col-lg-7
         p Los Servicios Farmacéuticos Hospitalarios, en los diferentes niveles de complejidad, despliegan una gran actividad logística para garantizar la cobertura en el suministro de medicamentos y dispositivos médicos en cada uno de los servicios con pacientes hospitalizados, incluyendo los que se encuentran en observación de urgencias y/o quirófano.  La Política de Seguridad del Paciente, implementada por las instituciones prestadoras de servicios de salud, constantemente se hace la siguiente pregunta: 
     
       .col-lg-4
@@ -71,8 +71,8 @@
     #t_3_1.titulo-segundo.color-acento-contenido
       h2 3.1  Orientaciones desde la normatividad
 
-    .row.mb-5
-      .col-6.col-lg-1
+    .row.justify-content-center.mb-5
+      .col-5.col-lg-1
         figure.my-5
           img(src="@/assets/curso/temas/tema3/img7.svg", alt="alt")        
 
@@ -138,9 +138,9 @@
     #t_3_2.titulo-segundo.color-acento-contenido
       h2 3.2  Principios del servicio farmacéutico
 
-    .row.mb-5
-      .col-6.col-lg-1
-        figure
+    .row.justify-content-center.mb-5
+      .col-5.col-lg-1
+        figure.mb-4
           img(src="@/assets/curso/temas/tema3/img13.svg", alt="alt")        
 
       .col-lg-11
@@ -150,14 +150,14 @@
 
     .tarjeta.color-secundario.p-4.mb-5
       .row.justify-content-around.align-items-center
-        .col-3.col-sm-2.col-lg-2
+        .col-6.col-sm-2.col-lg-2
           img(src="@/assets/curso/temas/tema3/img14.svg").img14-tm3
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               p.mt-3.texto-blanco Para conocer los principios del servicio farmacéutico, familiarizarse con ellos y hacer una asimilación conceptual de los mismos, en esta etapa de su proceso formativo, le invitamos a visitar el siguiente archivo. 
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2_PrincipiosDelServicioFarmaceutico.xlsx')" target="_blank")
                 span.texto-negro Descargar
                 i.texto-negro.fas.fa-file-download
 

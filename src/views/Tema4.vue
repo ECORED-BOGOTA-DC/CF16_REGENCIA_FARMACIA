@@ -12,10 +12,10 @@
     p Se presenta la lista de actividades, relacionadas o conexas con servicios de salud, que han de prestar especial atención a las orientaciones para la gestión integral de los residuos en salud:
 
     .row.justify-content-center.align-items-center.tema4-bg1.p-4
-      .col-3
-        figure 
+      .col-10.col-lg-3
+        figure.mb-4 
           img(src='@/assets/curso/temas/tema4/img1.png', alt='Texto que describa la imagen')
-      .col-9
+      .col-lg-9
         ul.lista-ul--color.fa-ul2
           li 
             i.fas.fa-check
@@ -55,10 +55,10 @@
       h2 4.1  Clasificación de los residuos derivados de la atención en salud
 
     .row.justify-content-center.align-items-center
-      .col-3
-        figure 
+      .col-lg-3
+        figure.mb-4
           img(src='@/assets/curso/temas/tema4/img2.png', alt='Texto que describa la imagen')
-      .col-9
+      .col-lg-9
         p Los generadores, prestadores del servicio de desactivación y prestadores del servicio especial de aseo de residuos hospitalarios y similares, diseñan e implementan el PGIRH, Plan de Gestión Integral de Residuos Hospitalarios, de acuerdo con las actividades que desarrollen, teniendo como punto de partida su compromiso institucional de carácter sanitario y ambiental, el cual debe ser real, claro, con propuestas de mejoramiento continuo de los procesos y orientado a la minimización de riesgos para la salud y el medio ambiente.
 
         p Conozca, más y mejor, la clasificación de los residuos derivados de la atención en salud, visualizando el recurso que se presenta a continuación.
@@ -146,11 +146,11 @@
     #t_4_3.titulo-segundo.color-acento-contenido
       h2 4.3  Segregación en la fuente
 
-    .row 
-      .col-1
+    .row.justify-content-center
+      .col-5.col-lg-1
         figure 
           img(src='@/assets/curso/temas/tema4/img3.png', alt='Texto que describa la imagen')
-      .col-11
+      .col-lg-11
         p Consiste en la separación selectiva (clasificación), de los residuos procedentes de cada una de las fuentes determinadas, cuya eficacia depende de la apropiada clasificación inicial de los residuos.
 
 
@@ -220,10 +220,10 @@
       h2 4.4  Gestión interna
 
     .row.justify-content-center.align-items-center.tema4-bg2.p-2
-      .col-4
-        figure
+      .col-8.col-lg-4
+        figure.mb-4
             img(src='@/assets/curso/temas/tema4/img11.png', alt='Texto que describa la imagen')
-      .col-8
+      .col-lg-8
         p Con el fin de garantizar el cumplimiento del PGIRH, Plan de Gestión Integral de Residuos Hospitalarios, se establecen mecanismos y procedimientos que permitan evaluar la ejecución de los procesos y procedimientos que incluye el plan a realizar, durante la marcha, los ajustes pertinentes. Entre los instrumentos que permiten monitorear esta función se encuentran los indicadores y las auditorías internas. Para el manejo de indicadores, se estandarizan los registros de generación de residuos y reportes de salud ocupacional.
 
         p <b>El control interno, encierra la implementación de todas las actividades a realizar dentro de una unidad que genera residuos hospitalarios, etc. Esto incluye la generación, la clasificación o segregación en la fuente, la manipulación interna, el almacenamiento y la transferencia a proveedores de servicios de limpieza especializada en función de criterios técnicos, económicos, sanitarios y medioambientales.</b>
@@ -233,16 +233,16 @@
       .row.justify-content-around.align-items-center
         .col-10
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/tema4/img12.png")
+            .col-6.col-sm-2.col-lg-2
+              img(src="@/assets/curso/temas/tema3/img14.svg").img14-tm3
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.text-white Para conocer los instrumentos de registro que favorecen el proceso de gestión interna en el manejo de residuos, visite el Anexo_1_GestionInterna. Recuerde consignar sus conclusiones e información asimilada en su libreta personal de apuntes.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_GesionInterna.pdf')" target="_blank")
+                    span.texto-negro Descargar
+                    i.texto-negro.fas.fa-file-download
 
 
     separador
@@ -250,11 +250,11 @@
     #t_4_5.titulo-segundo.color-acento-contenido
       h2 4.5  Gestión externa 
 
-    .row
-      .col-1
+    .row.justify-content-center
+      .col-5.col-lg-1
         figure 
           img(src='@/assets/curso/temas/tema4/img13.png', alt='Texto que describa la imagen')
-      .col-11
+      .col-lg-11
         p Es una serie de actividades en el manejo de residuos que se llevan a cabo fuera del sitio generador, tales como recolección en la fuente, trasporte, desactivación, desnaturalización, tratamiento y / o disposición final.
 
 

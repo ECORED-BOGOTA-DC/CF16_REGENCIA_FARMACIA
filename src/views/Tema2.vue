@@ -25,7 +25,7 @@
 
     .row.mb-5
       .col-6.col-lg-1
-        figure
+        figure.mb-4
           img(src="@/assets/curso/temas/tema2/img2.svg", alt="alt")
 
       .col-lg-11
@@ -79,8 +79,8 @@
         figure.my-5
           img(src="@/assets/curso/temas/tema2/img8.svg", alt="alt")      
 
-      .col-lg-8
-        p.mb-4 En los espacios de atención y servicio a clientes ha de tenerse como aspecto fundamental, el cuidado de las diversas formas de comunicación. Prestando especial atención a la comunicación verbal y no verbal.
+      .col-lg-8.mt-5
+        p.mb-5 En los espacios de atención y servicio a clientes ha de tenerse como aspecto fundamental, el cuidado de las diversas formas de comunicación. Prestando especial atención a la comunicación verbal y no verbal.
 
         .cajon.color-acento-contenido.p-4
           b.mb-0 La comunicación verbal, permite expresar y transmitir un mensaje de manera oral o escrita. Esta es esencialmente, el lenguaje donde interviene el tono y la velocidad de la voz. Mientras que en la comunicación no verbal no se emiten palabras o mensajes orales; es esencialmente el lenguaje corporal donde intervienen los movimientos, gestos, posturas e imagen personal.
@@ -97,7 +97,7 @@
         p La vocación profesional del prestador de servicios farmacéuticos y/o de salud, ha de estar dentro del código de ética profesional y las normas generales que rigen a toda la ciudadanía, según lo dispuesto por la constitución y la ley. Además de los principios rectores establecidos en la constitución política, la confianza, la igualdad, el autocontrol, la fraternidad, la menos maldad, la no toxicidad, la integridad y la doble causa, son necesarias para las personas reales.
 
       .col-lg-4
-        figure.my-5
+        figure
           img(src="@/assets/curso/temas/tema2/img9.svg", alt="alt")      
 
 

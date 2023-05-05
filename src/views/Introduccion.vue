@@ -13,16 +13,16 @@
       .col-lg-8
         p El uso racional de medicamentos y dispositivos médicos es una responsabilidad no sólo del sector farmacéutico, sino de todos los actores del sistema general de salud; por tanto, la atención oportuna y segura durante la prescripción, dispensación y/o venta de medicamentos, productos cosméticos y dispositivos médicos, se relaciona directamente con las necesidades individuales y colectivas en un territorio especifico.
 
-        p En Colombia, se evidencia la inadecuada propagación de la automedicación y la venta de medicamentos sin prescripción médica, como una acción ligada a la tradición cultural; en este sentido el suministrador de tiendas y droguerías recomienda el uso indiscriminado de medicamentos, al igual que es muy común la recomendación por parte de familiares y amigos o vecinos.
+        p.mb-4 En Colombia, se evidencia la inadecuada propagación de la automedicación y la venta de medicamentos sin prescripción médica, como una acción ligada a la tradición cultural; en este sentido el suministrador de tiendas y droguerías recomienda el uso indiscriminado de medicamentos, al igual que es muy común la recomendación por parte de familiares y amigos o vecinos.
 
       .col-lg-4
-        figure.my-4
+        figure
           img(src="@/assets/curso/temas/introduccion/img1.svg", alt="alt") 
 
 
     .row.mb-5
-      .col-lg-2
-        figure.my-4
+      .col-6.col-lg-2
+        figure.mb-4
           img(src="@/assets/curso/temas/introduccion/img2.png", alt="alt") 
 
       .col-lg-10.mb-5
