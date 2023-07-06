@@ -86,7 +86,7 @@
         .tarjeta.tarjeta--azul4.p-5(titulo="Resolución 1604 de 2013")
           .row
             .col-lg-8
-              p En el capítulo de la Resolución 1604 de 2013, el Ministerio de Salud y Protección Social, establece los “lineamientos que se deben tener en cuenta para dar cumplimiento al mecanismo excepcional de entrega de medicamentos en un lapso no mayor a 48 horas en el lugar de residencia o trabajo del afiliado cuando éste lo autorice…”
+              p En el capítulo de la Resolución 1604 de 2013, el Ministerio de Salud y Protección Social, establece los #[i “lineamientos que se deben tener en cuenta para dar cumplimiento al mecanismo excepcional de entrega de medicamentos en un lapso no mayor a 48 horas en el lugar de residencia o trabajo del afiliado cuando éste lo autorice…”]
 
               b Resolución 1604 de 2013.
             
@@ -97,7 +97,7 @@
         .tarjeta.tarjeta--azul4.p-5(titulo="Cabida a reclamaciones")
           .row
             .col-lg-8
-              p  “…como consecuencia de la entrega incompleta de los mismos [los medicamentos] al momento de la reclamación por parte del afiliado. Se entiende que el plazo establecido de 48 horas comprende el tiempo trascurrido después que el afiliado reclama los medicamentos”.
+              i “…como consecuencia de la entrega incompleta de los mismos [los medicamentos] al momento de la reclamación por parte del afiliado. Se entiende que el plazo establecido de 48 horas comprende el tiempo trascurrido después que el afiliado reclama los medicamentos”.
 
               b Resolución 1604 de 2013.
 

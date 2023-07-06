@@ -73,9 +73,15 @@
     #t_4_2.titulo-segundo.color-acento-contenido
       h2 4.2  Características de almacenamiento de residuos
 
-    p El sistema integral contiene aspectos como generación, separación, transporte interno, almacenamiento intermedio y / o central, desmantelamiento (control interno), recolección, transporte externo, desactivación o desnaturalización y / o disposición final (control externo).
+    .row.mb-5
+      p El sistema integral contiene aspectos como generación, separación, transporte interno, almacenamiento intermedio y / o central, desmantelamiento (control interno), recolección, transporte externo, desactivación o desnaturalización y / o disposición final (control externo).
 
-    p En la siguiente tabla 1, se puede comprender y asimilar las características de almacenamiento de residuos derivados de los servicios de salud, hospitalarios y similares.
+      p En la siguiente tabla 1, se puede comprender y asimilar las características de almacenamiento de residuos derivados de los servicios de salud, hospitalarios y similares.
+
+    .titulo-sexto.color-acento-contenido.mb-5
+      h5 Tabla 1
+      br
+      i Almacenamiento de residuos hospitalarios y similares.
 
     .tabla-a.color-secundario
       table
