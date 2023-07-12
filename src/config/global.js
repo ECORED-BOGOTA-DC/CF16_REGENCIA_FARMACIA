@@ -140,7 +140,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Plan post consumo',
         desarrolloContenidos: true,
       },
     ],
