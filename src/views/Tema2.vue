@@ -9,7 +9,7 @@
 
     .row.mb-5
       figure.mb-5
-        img(src="@/assets/curso/temas/tema2/img1.svg", alt="alt")     
+        img(src="@/assets/curso/temas/tema2/img1.svg", alt="Imágen decorativa")     
 
       p Hablar de técnicas de servicio es hablar del conjunto de pasos o formas de proceder en la atención a pacientes o usuarios del servicio farmacéutico y de salud. Estas técnicas deben ser específicas del tipo de servicio, ya que no todas las técnicas sirven para proporcionar satisfacción en un mismo sentido o contexto. 
 
@@ -24,9 +24,9 @@
       h2 2.1  Presentación personal y actitud frente al servicio
 
     .row.mb-5
-      .col-6.col-lg-1
+      .col-3.col-lg-1
         figure.mb-4
-          img(src="@/assets/curso/temas/tema2/img2.svg", alt="alt")
+          img(src="@/assets/curso/temas/tema2/img2.png", alt="Imágen decorativa")
 
       .col-lg-11
         p La primera impresión que se da, también es la primera impresión que da la empresa u organización prestadora de servicios. Es la tarjeta de visita o presentación, como suele llamarse popularmente. La imagen personal forma parte de la comunicación no verbal; por lo tanto, no se debe desdeñar si se quiere que funcione a favor, a la hora de establecer comunicación.
@@ -36,36 +36,36 @@
     SlyderF(columnas="col-lg-6 col-xl-4")
       .tarjeta.tarjeta-azul4.p-4
         .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/temas/tema2/img3.svg' alt='AvatarTop')
+          .col-4
+            img(src='@/assets/curso/temas/tema2/img3.svg' alt='Imágen decorativa')
         h5.text-center Amabilidad y asertividad
         p.text-center Es indispensable mantener una actitud amable y asertiva, mirando directamente a los ojos y escuchando atentamente, sin interrupciones ni entablando discusiones con el usuario.
 
       .tarjeta.tarjeta-azul4.p-4
         .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/temas/tema2/img4.svg' alt='AvatarTop')
+          .col-4
+            img(src='@/assets/curso/temas/tema2/img4.svg' alt='Imágen decorativa')
         h5.text-center Tono de voz y gestualidad
         p.text-center Se debe cuidar el tono de voz; muchas veces no cuenta tanto lo que se dice sino la manera en que se dice. Así mismo, no mostrarse agresivo verbalmente ni con los gestos, ni con las posturas corporales.
 
       .tarjeta.tarjeta-azul4.p-4
         .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/temas/tema2/img5.svg' alt='AvatarTop')
+          .col-4
+            img(src='@/assets/curso/temas/tema2/img5.svg' alt='Imágen decorativa')
         h5.text-center Proactividad y capacidad de propuesta
         p.text-center Es importante ofrecer alternativas de solución, en caso de requerirlas, y comprometerse sólo con lo que se pueda cumplir. Una frase como “le comprendo”, “qué pena” o “claro que sí”, demuestran que usted es consciente del malestar del usuario.
 
       .tarjeta.tarjeta-azul4.p-4
         .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/temas/tema2/img6.svg' alt='AvatarTop')
+          .col-4
+            img(src='@/assets/curso/temas/tema2/img6.svg' alt='Imágen decorativa')
         h5.text-center Autocontrol y respeto a la dignidad
         p.text-center No perder el control es crucial; si conserva la calma, es probable que el usuario también se calme. Evitar, a toda costa, calificar el estado de ánimo del usuario y no pedir que se calme.
 
       .tarjeta.tarjeta-azul4.p-4
         .row.justify-content-center.mb-3
-          .col-6
-            img(src='@/assets/curso/temas/tema2/img7.svg' alt='AvatarTop')
+          .col-4
+            img(src='@/assets/curso/temas/tema2/img7.svg' alt='Imágen decorativa')
         h5.text-center Despersonalizar la dificultad
         p.text-center No tomar la situación como algo personal; el usuario se queja de un servicio, no de la persona.
 
@@ -77,7 +77,7 @@
     .row.mb-5
       .col-lg-4
         figure.my-5
-          img(src="@/assets/curso/temas/tema2/img8.svg", alt="alt")      
+          img(src="@/assets/curso/temas/tema2/img8.svg", alt="Imágen decorativa")      
 
       .col-lg-8.mt-5
         p.mb-5 En los espacios de atención y servicio a clientes ha de tenerse como aspecto fundamental, el cuidado de las diversas formas de comunicación. Prestando especial atención a la comunicación verbal y no verbal.
@@ -98,16 +98,20 @@
 
       .col-lg-4
         figure
-          img(src="@/assets/curso/temas/tema2/img9.svg", alt="alt")      
+          img(src="@/assets/curso/temas/tema2/img9.svg", alt="Imágen decorativa")      
 
 
     .row.justify-content-center.mb-5
       .col-lg-9
+
+        .titulo-sexto.color-acento-contenido.mb-5
+          h5 Tabla 1.
+
         .tabla-a.color-secundario
-          table
+          table(alt="Tabla 1. Indica los principios éticos a tener en cuenta en la comunicación en el área de la salud que atiende clientes.")
             thead
               tr
-                th Códigos de ética y Bioética
+                th Códigos de ética y bioética
                 th Características
             tbody
               tr

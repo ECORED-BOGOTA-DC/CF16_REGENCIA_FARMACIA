@@ -273,7 +273,7 @@ export default {
       referencia:
         'Álvarez, M., Calvin, B., Feal, L., Martínez, I., Pedreira. M. & Herranz, M. (2014). Indicadores de calidad en el proceso de almacenamiento y dispensación de medicamentos en un Servicio de Farmacia Hospitalaria. <i>Revista de calidad asistencial.</i> 29(04) p. 204-211.',
       link:
-        '. https://www.elsevier.es/es-revista-revista-calidad-asistencial-256-pdf-S1134282X14000451',
+        'https://www.elsevier.es/es-revista-revista-calidad-asistencial-256-pdf-S1134282X14000451',
     },
     {
       referencia:
@@ -295,7 +295,7 @@ export default {
       referencia:
         'Resolución 1403 de 2007. [Ministerio de la Protección Social]. Por la cual se determina el Modelo de Gestión del Servicio Farmacéutico, se adopta el Manual de Condiciones Esenciales y Procedimientos y se dictan otras disposiciones. Mayo 14 de 2007',
       link:
-        'https://www.invima.gov.co/documents/20143/453029/Resoluci%C3%B3n+1403+de+2007.pdf/6b2e1ce1-bb34-e17f03ef34e35c126949#:~:text=El%20servicio%20farmac%C3%A9utico%20dispondr%C3%A1%20b%C3%A1sicamente,recurso%20humano%20y%20de%20seguridad.&text=ART%C3%8DCULO%2020.,SOBRE%20MEDICAMENTOS%20Y%20DISPOSITIVOS%20M%C3%89DICOS.',
+        'https://www.invima.gov.co/documents/20143/453029/Resoluci%C3%B3n+1403+de+2007.pdf',
     },
     {
       referencia:

@@ -9,7 +9,7 @@
 
     .row.justify-content-center.aling-items-center 
       figure 
-        img(src="@/assets/curso/temas/tema5/img1.png", alt="alt") 
+        img(src="@/assets/curso/temas/tema5/img1.png", alt="Imágen decorativa") 
 
       p.mt-5 Cuando se presenta la situación de vencimiento o de utilización parcial de medicamentos e insumos médicos, es responsabilidad de la entidad, bien sea clínica, farmacia, centro de salud, laboratorio, etc., establecer el denominado protocolo o plan post consumo.
 
@@ -18,7 +18,7 @@
     .row.mt-5.tema5-bg1.p-4
       .col-8.col-lg-3
         figure
-          img(src="@/assets/curso/temas/tema5/img2.png", alt="alt") 
+          img(src="@/assets/curso/temas/tema5/img2.png", alt="Imágen decorativa") 
       .col-lg-9.mt-5
         ul.lista-ul--color.fa-ul2
           li 
@@ -60,11 +60,11 @@
       SlyderA(tipo="b")
         .row
           .col-md-6.mb-4.mb-md-0
-            p De acuerdo a la Resolución 0371de 2009 “Por la cual se establecen los elementos que deben ser considerados en los Planes de Gestión de Devolución de Productos Posconsumo de Fármacos o Medicamentos Vencidos”; se generan los planes post consumo de  medicamentos de uso humano y/o veterinario, que se encuentran vencidos o parcialmente utilizados.
+            p De acuerdo a la Resolución 0371 de 2009 “Por la cual se establecen los elementos que deben ser considerados en los Planes de Gestión de Devolución de Productos Posconsumo de Fármacos o Medicamentos Vencidos”; se generan los planes post consumo de  medicamentos de uso humano o veterinario, que se encuentran vencidos o parcialmente utilizados.
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema5/img3.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema5/img3.png', alt='Imágen decorativa')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -72,7 +72,7 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema5/img4.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema5/img4.png', alt='Imágen decorativa')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -80,15 +80,15 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema5/img5.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema5/img5.png', alt='Imágen decorativa')
 
         .row
           .col-md-6.mb-4.mb-md-0
-            p <b>No están contemplados en el plan post consumo:</b> jeringas, agujas, cuchillas y demás elementos corto punzantes. Residuos de gasas, algodones, telas, curaciones, residuos con riesgo biológico o infeccioso (restos de tejidos, fluidos corporales). Residuos que no están relacionados con medicamentos (empaques de Jabones, frascos de champú, latas de plaguicidas domésticos).
+            p <b>No están contemplados en el plan post consumo:</b> jeringas, agujas, cuchillas y demás elementos corto punzantes. Residuos de gasas, algodones, telas, curaciones, residuos con riesgo biológico o infeccioso (restos de tejidos, fluidos corporales). Residuos que no están relacionados con medicamentos (empaques de jabones, frascos de champú, latas de plaguicidas domésticos).
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema5/img6.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema5/img6.png', alt='Imágen decorativa')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -96,7 +96,7 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema5/img7.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema5/img7.png', alt='Imágen decorativa')
 
         .row
           .col-md-6.mb-4.mb-md-0
@@ -104,7 +104,7 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema5/img8.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema5/img8.png', alt='Imágen decorativa')
 
 </template>
 

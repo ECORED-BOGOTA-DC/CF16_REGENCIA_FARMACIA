@@ -9,16 +9,16 @@
 
     .row.mb-5
       figure
-        img(src="@/assets/curso/temas/tema1/img1.svg", alt="alt")     
+        img(src="@/assets/curso/temas/tema1/img1.svg", alt="Imágen decorativa")     
 
     .row.mb-5
-      p La satisfacción en los servicios farmacéuticos y/o droguerías, se relaciona con varios factores como, por ejemplo:
+      p La satisfacción en los servicios farmacéuticos o droguerías, se relaciona con varios factores como, por ejemplo:
 
     .row.mb-5
       .col-lg-4
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema1/img2.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img2.svg' alt='Imágen decorativa')
           .tarjeta.tarjeta--morada
             .py-4.px-3
               p.mb-0 Las condiciones de vida.
@@ -26,7 +26,7 @@
       .col-lg-4
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema1/img3.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img3.svg' alt='Imágen decorativa')
           .tarjeta.tarjeta--morada
             .py-4
               p.mb-0 Las prácticas y experiencias previas.
@@ -34,7 +34,7 @@
       .col-lg-4
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/temas/tema1/img4.svg' alt='AvatarTop')
+            img(src='@/assets/curso/temas/tema1/img4.svg' alt='Imágen decorativa')
           .tarjeta.tarjeta--morada
             .py-4.px-3
               p.mb-0 Las esperanzas del futuro. 
@@ -49,9 +49,9 @@
       .col-lg-4.mb-4
         .tarjeta.tarjeta--azul2.p-4
           .row.justify-content-center
-            .col-6.col-lg-5
+            .col-4.col-lg-5
               figure.mb-4
-                img(src="@/assets/curso/temas/tema1/img5.svg", alt="alt")
+                img(src="@/assets/curso/temas/tema1/img5.png", alt="Imágen decorativa")
             
           h5.text-center Insatisfacción
           p.text-center La insatisfacción es experimentada por el usuario cuando el producto o servicio NO cumple con las expectativas.
@@ -59,19 +59,19 @@
       .col-lg-4.mb-4
         .tarjeta.tarjeta--azul2.p-4
           .row.justify-content-center
-            .col-6.col-lg-5
+            .col-4.col-lg-5
               figure.mb-4
-                img(src="@/assets/curso/temas/tema1/img6.svg", alt="alt")
+                img(src="@/assets/curso/temas/tema1/img6.svg", alt="Imágen decorativa")
           
           h5.text-center Satisfacción
-          p.text-center La Satisfacción del usuario se refleja cuando el producto o servicio se limita a cumplir con las expectativas.
+          p.text-center La satisfacción del usuario se refleja cuando el producto o servicio se limita a cumplir con las expectativas.
 
       .col-lg-4.mb-4
         .tarjeta.tarjeta--azul2.p-4
           .row.justify-content-center
-            .col-6.col-lg-5
+            .col-4.col-lg-5
               figure.mb-4
-                img(src="@/assets/curso/temas/tema1/img7.svg", alt="alt")
+                img(src="@/assets/curso/temas/tema1/img7.svg", alt="Imágen decorativa")
           
           h5.text-center La complacencia
           p.text-center Se trata del estado máximo de satisfacción, por encima de lo esperado, cuando el producto o servicio supera las expectativas.
@@ -93,12 +93,12 @@
     .row.mb-5
       .col-lg-3
         figure.mb-4
-          img(src="@/assets/curso/temas/tema1/img9.svg", alt="alt")
+          img(src="@/assets/curso/temas/tema1/img9.svg", alt="Imágen decorativa")
 
       .col-lg-9
         p Cualquier servicio de atención a clientes pretende, no solo lograr generar utilidades y mejoras a la organización sino impactar de manera positiva y transformadora en sus usuarios, sus vidas y dinámicas. Tanto así que la atención a usuarios, en el sector farmacéutico y de servicios de salud, cuenta con distintos esquemas o protocolos propios para favorecer el cumplimiento de tales propósitos.
 
-        p En el siguiente recurso, se mostrará los atributos del buen servicio, en la atención a usuarios de salud. Se debe Visualizar conscientemente el recurso y apropiar los aspectos conceptuales que allí se ofrecen. ¡Adelante!
+        p En el siguiente recurso, se mostrará los atributos del buen servicio, en la atención a usuarios de salud. Se debe visualizar conscientemente el recurso y apropiar los aspectos conceptuales que allí se ofrecen. ¡Adelante!
 
     .row.my-5(data-aos="fade-zoom")
       figure
@@ -108,7 +108,7 @@
     separador
 
     #t_1_2.titulo-segundo.color-acento-contenido
-      h2 1.2  Diseño de las instalaciones
+      h2 1.2	Resultados de la satisfacción del usuario
 
     .row.mb-5
       p Un servicio a clientes que se caracterice por ser efectivo, respetuoso, oportuno e integral, además de convertirse en una experiencia de crecimiento y consolidación para la empresa u organización, es factor de beneficios multidireccionales, en donde el cliente, las familias de los clientes, otras empresas u organizaciones, la sociedad y el mercado, se ven positivamente impactados.
@@ -119,9 +119,9 @@
       .col-lg-4.mb-4
         .tarjeta.tarjeta--azul3.p-4
           .row.justify-content-center
-            .col-6.col-lg-5
+            .col-4.col-lg-5
               figure.mb-4
-                img(src="@/assets/curso/temas/tema1/img10.svg", alt="alt")
+                img(src="@/assets/curso/temas/tema1/img10.svg", alt="Imágen decorativa")
             
           h5.text-center Lealtad
           p.text-center El usuario satisfecho, por lo general, vuelve a comprar; por tanto, se obtiene como beneficio, su lealtad.
@@ -129,9 +129,9 @@
       .col-lg-4.mb-4
         .tarjeta.tarjeta--azul3.p-4
           .row.justify-content-center
-            .col-6.col-lg-5
+            .col-4.col-lg-5
               figure.mb-4
-                img(src="@/assets/curso/temas/tema1/img11.svg", alt="alt")
+                img(src="@/assets/curso/temas/tema1/img11.svg", alt="Imágen decorativa")
           
           h5.text-center Difusión gratuita del servicio
           p.text-center El cliente satisfecho comunica a otros su experiencia positiva. Se obtiene, entonces, difusión gratuita ya que compartirá su experiencia con familiares, amistades, conocidos, entre otros.
@@ -139,9 +139,9 @@
       .col-lg-4.mb-4
         .tarjeta.tarjeta--azul3.p-4
           .row.justify-content-center
-            .col-6.col-lg-5
+            .col-4.col-lg-5
               figure.mb-4
-                img(src="@/assets/curso/temas/tema1/img12.svg", alt="alt")
+                img(src="@/assets/curso/temas/tema1/img12.svg", alt="Imágen decorativa")
           
           h5.text-center Posicionamiento
           p.text-center El usuario satisfecho deja a un lado a la competencia.
@@ -155,14 +155,14 @@
     .row.mb-5
       p El buen servicio al cliente ha de estar siempre presente en cada tipo de atención que solicite el usuario. Debe, desde luego, prevalecer la interacción con él, incluso con los suyos si fuera el caso. Esto, desde el saludo hasta el final de la atención del paciente y su posterior egreso. Para ello, se requiere un proceso de capacitación y motivación permanentes, no sólo al personal que está en contacto con el usuario sino, en general, a todo el talento humano de la organización. Esto favorece lograr la prestación de un servicio con calidad.
 
-      p La entrega responsable de medicamentos y/o dispositivos médicos, tiene algunas obligaciones y responsabilidades de orden humano, institucional, normativo legal, entre otras. A continuación, se muestran algunas obligaciones basadas en los protocolos de atención al ciudadano, en el sector salud:
+      p La entrega responsable de medicamentos o dispositivos médicos, tiene algunas obligaciones y responsabilidades de orden humano, institucional, normativo legal, entre otras. A continuación, se muestran algunas obligaciones basadas en los protocolos de atención al ciudadano, en el sector salud:
 
     .row.mb-5
       .tarjeta--morada2.py-4.px-5
         .row.justify-content-center
           .col-8.col-lg-3
             figure.mt-5.mb-4
-              img(src="@/assets/curso/temas/tema1/img13.svg", alt="alt")
+              img(src="@/assets/curso/temas/tema1/img13.svg", alt="Imágen decorativa")
 
           .col-lg-9
             ul.lista-ul--color.fa-ul2

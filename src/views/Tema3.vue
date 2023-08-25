@@ -7,13 +7,13 @@
         span 3
       h1 Indicadores de gestión
 
-    .row.justify-content-center.mb-5
-      .col-5.col-lg-1
+    .row.align-items-center.mb-5
+      .col-3.col-lg-1
         figure.my-5
-          img(src="@/assets/curso/temas/tema3/img1.svg", alt="alt")
+          img(src="@/assets/curso/temas/tema3/img1.svg", alt="Imágen decorativa")
       
       .col-lg-7
-        p Los Servicios Farmacéuticos Hospitalarios, en los diferentes niveles de complejidad, despliegan una gran actividad logística para garantizar la cobertura en el suministro de medicamentos y dispositivos médicos en cada uno de los servicios con pacientes hospitalizados, incluyendo los que se encuentran en observación de urgencias y/o quirófano.  La Política de Seguridad del Paciente, implementada por las instituciones prestadoras de servicios de salud, constantemente se hace la siguiente pregunta: 
+        p Los Servicios Farmacéuticos Hospitalarios, en los diferentes niveles de complejidad, despliegan una gran actividad logística para garantizar la cobertura en el suministro de medicamentos y dispositivos médicos en cada uno de los servicios con pacientes hospitalizados, incluyendo los que se encuentran en observación de urgencias o quirófano.  La Política de Seguridad del Paciente, implementada por las instituciones prestadoras de servicios de salud, constantemente se hace la siguiente pregunta: 
     
       .col-lg-4
         .bloque-texto-b.color-secundario.p-3
@@ -31,7 +31,7 @@
         
           .col-md-5
             figure
-              img(src="@/assets/curso/temas/tema3/img2.svg", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img2.svg", alt="Imágen decorativa")
 
         .row(titulo="Evidencia de impactos").p-4
           .col-md-7.my-3
@@ -39,15 +39,15 @@
         
           .col-md-5
             figure
-              img(src="@/assets/curso/temas/tema3/img3.svg", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img3.svg", alt="Imágen decorativa")
 
         .row(titulo="Indicadores aplicados a procesos varios").p-4
           .col-md-7.my-3
-            p El sistema de gestión de la calidad de los servicios farmacéuticos hospitalarios, utiliza indicadores aplicados a los procesos de almacenamiento, distribución / dispensación de medicamentos; sin embargo, esto no quiere decir que en los otros procesos no se identifiquen fallos.
+            p El sistema de gestión de la calidad de los servicios farmacéuticos hospitalarios, utiliza indicadores aplicados a los procesos de almacenamiento, distribución/dispensación de medicamentos; sin embargo, esto no quiere decir que en los otros procesos no se identifiquen fallos.
         
           .col-md-5
             figure
-              img(src="@/assets/curso/temas/tema3/img4.svg", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img4.svg", alt="Imágen decorativa")
 
         .row(titulo="Ejemplos de fallos (indicadores)").p-4
           .col-md-7.my-3
@@ -55,15 +55,15 @@
         
           .col-md-5
             figure
-              img(src="@/assets/curso/temas/tema3/img5.svg", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img5.svg", alt="Imágen decorativa")
 
         .row(titulo="Oportunidad").p-4
           .col-md-7.my-3
-            p Para los servicios farmacéuticos y farmacias, droguerías, los indicadores se relacionan más con la oportunidad en la entrega de medicamentos y/o dispositivos médicos; el manejo de pendientes; el registro, entre otros.
+            p Para los servicios farmacéuticos y farmacias, droguerías, los indicadores se relacionan más con la oportunidad en la entrega de medicamentos o dispositivos médicos; el manejo de pendientes; el registro, entre otros.
         
           .col-md-5
             figure
-              img(src="@/assets/curso/temas/tema3/img6.svg", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img6.svg", alt="Imágen decorativa")
 
 
     separador
@@ -71,10 +71,10 @@
     #t_3_1.titulo-segundo.color-acento-contenido
       h2 3.1  Orientaciones desde la normatividad
 
-    .row.justify-content-center.mb-5
-      .col-5.col-lg-1
+    .row.align-items-center.mb-5
+      .col-3.col-lg-1
         figure.my-5
-          img(src="@/assets/curso/temas/tema3/img7.svg", alt="alt")        
+          img(src="@/assets/curso/temas/tema3/img7.svg", alt="Imágen decorativa")        
 
       .col-lg-11
         p Garantizar la cobertura en el suministro de medicamentos y hacer viable la Política de Seguridad del Paciente, es uno de los grandes retos de las entidades prestadoras de servicios de salud y, sin lugar a dudas, de cada funcionario, sea del sector público o privado. También estos individuos, en calidad de garantes de los servicios de salud, han de encontrar soporte en lo protocolos y la normativa vigente.
@@ -92,27 +92,27 @@
             
             .col-lg-4
               figure
-                img(src="@/assets/curso/temas/tema3/img8.svg", alt="alt")          
+                img(src="@/assets/curso/temas/tema3/img8.svg", alt="Imágen decorativa")          
 
         .tarjeta.tarjeta--azul4.p-5(titulo="Cabida a reclamaciones")
           .row
             .col-lg-8
-              i “…como consecuencia de la entrega incompleta de los mismos [los medicamentos] al momento de la reclamación por parte del afiliado. Se entiende que el plazo establecido de 48 horas comprende el tiempo trascurrido después que el afiliado reclama los medicamentos”.
+              p <i>“… como consecuencia de la entrega incompleta de los mismos [los medicamentos] al momento de la reclamación por parte del afiliado. Se entiende que el plazo establecido de 48 horas comprende el tiempo trascurrido después que el afiliado reclama los medicamentos”.</i>
 
               b Resolución 1604 de 2013.
 
             .col-lg-4
               figure
-                img(src="@/assets/curso/temas/tema3/img9.svg", alt="alt")          
+                img(src="@/assets/curso/temas/tema3/img9.svg", alt="Imágen decorativa")          
 
         .tarjeta.tarjeta--azul4.p-5(titulo="Manejo de pendientes")
           .row
             .col-lg-8
-              p De acuerdo a la anterior resolución, el manejo de pendientes de medicamentos o dispositivos médicos, no debe exceder a 48 horas posteriores a la solicitud por parte de usuario; esto con el fin primordial que el tratamiento prescrito inicie su acción farmacológica lo más pronto posible, evitando así el recrudecimiento de la afección y/o las posibles complicaciones. 
+              p De acuerdo a la anterior resolución, el manejo de pendientes de medicamentos o dispositivos médicos, no debe exceder a 48 horas posteriores a la solicitud por parte de usuario; esto con el fin primordial que el tratamiento prescrito inicie su acción farmacológica lo más pronto posible, evitando así el recrudecimiento de la afección o las posibles complicaciones. 
             
             .col-lg-4
               figure
-                img(src="@/assets/curso/temas/tema3/img10.svg", alt="alt")          
+                img(src="@/assets/curso/temas/tema3/img10.svg", alt="Imágen decorativa")          
 
         .tarjeta.tarjeta--azul4.p-5(titulo="Entidades administradoras comprometidas")
           .row
@@ -121,7 +121,7 @@
             
             .col-lg-4
               figure
-                img(src="@/assets/curso/temas/tema3/img11.svg", alt="alt")          
+                img(src="@/assets/curso/temas/tema3/img11.svg", alt="Imágen decorativa")          
 
         .tarjeta.tarjeta--azul4.p-5(titulo="Otros casos comunes")
           .row
@@ -130,7 +130,7 @@
             
             .col-lg-4
               figure
-                img(src="@/assets/curso/temas/tema3/img12.svg", alt="alt")          
+                img(src="@/assets/curso/temas/tema3/img12.svg", alt="Imágen decorativa")          
 
 
     separador
@@ -138,10 +138,10 @@
     #t_3_2.titulo-segundo.color-acento-contenido
       h2 3.2  Principios del servicio farmacéutico
 
-    .row.justify-content-center.mb-5
-      .col-5.col-lg-1
+    .row.align-items-center.mb-5
+      .col-3.col-lg-1
         figure.mb-4
-          img(src="@/assets/curso/temas/tema3/img13.svg", alt="alt")        
+          img(src="@/assets/curso/temas/tema3/img13.svg", alt="Imágen decorativa")        
 
       .col-lg-11
         p Todo servicio farmacéutico ha de tener como guía permanente de sus actividades, los 
@@ -150,7 +150,7 @@
 
     .tarjeta.color-secundario.p-4.mb-5
       .row.justify-content-around.align-items-center
-        .col-6.col-sm-2.col-lg-2
+        .col-4.col-sm-2.col-lg-2
           img(src="@/assets/curso/temas/tema3/img14.svg").img14-tm3
         .col
           .row.justify-content-between.align-items-center
