@@ -76,7 +76,7 @@
     .row.mb-5
       p El sistema integral contiene aspectos como generación, separación, transporte interno, almacenamiento intermedio o central, desmantelamiento (control interno), recolección, transporte externo, desactivación o desnaturalización o disposición final (control externo).
 
-      p En la tabla 1, se puede comprender y asimilar las características de almacenamiento de residuos derivados de los servicios de salud, hospitalarios y similares.
+      p En la tabla 2, se puede comprender y asimilar las características de almacenamiento de residuos derivados de los servicios de salud, hospitalarios y similares.
 
     .titulo-sexto.color-acento-contenido.mb-5
       h5 Tabla 2.
