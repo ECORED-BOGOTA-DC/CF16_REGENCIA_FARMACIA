@@ -1,8 +1,8 @@
-# **ecoredsena-base v7.0.1**
+# **Servicio al cliente**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-bogota-dc.github.io/CF16_REGENCIA_FARMACIA/](https://ecored-bogota-dc.github.io/CF16_REGENCIA_FARMACIA/)
 
 #
 

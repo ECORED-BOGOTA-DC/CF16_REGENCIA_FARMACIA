@@ -60,6 +60,8 @@
 .tarjeta--morada2
   background-color: #E5DFF9
   border-top-left-radius: 200px
+  @media (max-width: $bp-min-lg)
+    border-top-left-radius: 50px
 
 // ESTILO TEMA 2
 
@@ -110,10 +112,13 @@
 .tema4-bg2
   background-image: url(../assets/curso/temas/tema4/bg1.png)
   background-size: 100% 100%
-  @media (max-width: 991px)
-    background-size: 100% 110%
-  
-
+  background-position-y: 20px
+  @media (max-width: $bp-min-xl)
+    background-position-y: 30px
+  @media (max-width: $bp-min-lg)
+    background-image: none
+    background-color: #C3F8FF
+    border-radius: 25px
 
 .tarjeta-height
   height: 400px;
