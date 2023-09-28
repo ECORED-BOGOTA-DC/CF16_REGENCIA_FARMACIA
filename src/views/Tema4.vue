@@ -47,11 +47,15 @@
           img(src='@/assets/curso/temas/tema4/img2.svg', alt='Imágen decorativa')
       .col-lg-9(data-aos="fade-left")
         p Los generadores, prestadores del servicio de desactivación y prestadores del servicio especial de aseo de residuos hospitalarios y similares, diseñan e implementan el PGIRH, Plan de Gestión Integral de Residuos Hospitalarios, de acuerdo con las actividades que desarrollen, teniendo como punto de partida su compromiso institucional de carácter sanitario y ambiental, el cual debe ser real, claro, con propuestas de mejoramiento continuo de los procesos y orientado a la minimización de riesgos para la salud y el medio ambiente.
-        p Conozca, más y mejor, la clasificación de los residuos derivados de la atención en salud, visualizando el recurso que se presenta a continuación.
-    .row(data-aos="fade-down")
+        p Conozca, más y mejor, la clasificación de los residuos derivados de la atención en salud, visualizando los recursos que se presentan a continuación.
+    .row.mb-5(data-aos="fade-down")
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/kPaCfiK6ZTA?si=-GCMj7AshAaLaM_y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    .row(data-aos="fade-right")
+      figure
+        .video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/o6Ip8UN_IIU?si=tkDDagg8457whggJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     separador
     #t_4_2.titulo-segundo.color-acento-contenido
       h2 4.2  Características de almacenamiento de residuos
@@ -270,10 +274,10 @@
           h4.text-center Peligro por contacto
           p.text-small.text-center Así mismo, se considera residuo o desecho peligroso a los envases, empaques y embalajes que hayan estado en contacto con ellos.
     p.my-5(data-aos="fade-right") Para conocer las fuentes generadoras de residuos peligrosos y fijar mayor claridad sobre este tema, se debe dirigir al recurso que, a continuación, se presenta:
-    .row(data-aos="fade-right")
-      figure
-        .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/o6Ip8UN_IIU?si=tkDDagg8457whggJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    .row.justify-content-center
+      .col-lg-10
+        figure(data-aos="fade-left")
+          img(src='@/assets/curso/temas/tema4/img20.svg', alt='Actividades productivas: sector industrial, minero-energético, agroindustrial, de infraestructura, etc. Actividades del sector servicios: salud, transporte, educación, laboratorios, investigación, administración publica, etc. Resultado del consumo masivo de productos Pilas, baterías, envases de plaguicidas, solventes, lámparas de mercurio, desechos electrónicos, etc. Hogares limpiadores domésticos, productos automotrices, cosméticos, productos para el mantenimiento del hogar, etc.')
 
 </template>
 
