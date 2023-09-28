@@ -193,14 +193,6 @@ export default {
     {
       tema: 'Satisfacción del usuario',
       referencia:
-        'Resolución número 1403 de 2007. [Ministerio de la Protección Social]. (2017). Por la cual se determina el Modelo de Gestión del Servicio Farmacéutico, se adopta el Manual de Condiciones Esenciales y Procedimientos y se dictan otras disposiciones. 14 de mayo de 2007, http://autorregulacion.saludcapital.gov.co/leyes/Resolucion_1403_de_2007.pdf',
-      tipo: 'Documento',
-      link:
-        'http://autorregulacion.saludcapital.gov.co/leyes/Resolucion_1403_de_2007.pdf',
-    },
-    {
-      tema: 'Satisfacción del usuario',
-      referencia:
         'Ministerio de Salud y Protección Social. (2016). <i>Protocolo de Atención al Ciudadano.</i>',
       tipo: 'Documento',
       link:
@@ -209,7 +201,7 @@ export default {
     {
       tema: 'Indicadores de gestión',
       referencia:
-        'Resolución número 1403 de 2007. [Ministerio de la Protección Social]. (2017). Por la cual se determina el Modelo de Gestión del Servicio Farmacéutico, se adopta el Manual de Condiciones Esenciales y Procedimientos y se dictan otras disposiciones. 14 de mayo de 2007',
+        'Resolución número 1403 de 2007. [Ministerio de la Protección Social]. (2017). <i>Por la cual se determina el Modelo de Gestión del Servicio Farmacéutico, se adopta el Manual de Condiciones Esenciales y Procedimientos y se dictan otras disposiciones</i>. 14 de mayo de 2007',
       tipo: 'Documento',
       link:
         'http://autorregulacion.saludcapital.gov.co/leyes/Resolucion_1403_de_2007.pdf',

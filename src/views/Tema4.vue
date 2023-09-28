@@ -14,30 +14,31 @@
           img(src='@/assets/curso/temas/tema4/img1.svg', alt='Imágen decorativa')
       .col-lg-9(data-aos="fade-left")
         ul.lista-ul--color.fa-ul2
-          li 
+          li.d-flex
             i.fas.fa-check
             | Todos los servicios incluidos en la atención en salud.
-          li 
+          li.d-flex
             i.fas.fa-check
             | Bancos de sangre, tejidos o semen y bioterios o laboratorios de biotecnología.
-          li 
+          li.d-flex
             i.fas.fa-check
             | Centros de docencia e investigación con organismos vivos o cadáveres, así como servicios de tanatopraxia, morgues, necropsias y exhumaciones.
-          li 
+          li.d-flex
             i.fas.fa-check
             | Servicios de lavado de ropa hospitalaria y esterilización de material quirúrgico.
-          li 
+          li.d-flex
             i.fas.fa-check
             | Plantas de beneficio animal (mataderos).
-          li 
+          li.d-flex
             i.fas.fa-check
             | Servicios veterinarios en general: clínicas, laboratorios, centros de zoonosis, zoológicos, tiendas de mascotas.
-          li 
+          li.d-flex
             i.fas.fa-check
             | Establecimientos destinados al trabajo sexual y otras actividades ligadas.
-          li 
+          li.d-flex
             i.fas.fa-check
-            | Servicios de estética, cosmetología y afines: salas de belleza, escuelas de belleza, centros de piercing o tatuajes.
+            |
+            p.mb-0 Servicios de estética, cosmetología y afines: salas de belleza, escuelas de belleza, centros de #[i piercing] o tatuajes.
     separador
     #t_4_1.titulo-segundo.color-acento-contenido
       h2 4.1  Clasificación de los residuos derivados de la atención en salud
