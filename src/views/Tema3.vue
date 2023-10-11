@@ -119,7 +119,7 @@
             .col.mb-3.mb-sm-0
               p.mt-3.texto-blanco Para conocer los principios del servicio farmacéutico, familiarizarse con ellos y hacer una asimilación conceptual de los mismos, en esta etapa de su proceso formativo, le invitamos a visitar el siguiente archivo. 
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/ANEXO1-principiosdelserviciofarmacéutico.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Principios_del_servicio_farmaceutico.pdf')" target="_blank")
                 span.texto-negro Descargar
                 i.texto-negro.fas.fa-file-download
 

@@ -195,9 +195,9 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              p.mt-3.texto-blanco Para conocer los instrumentos de registro que favorecen el proceso de gestión interna en el manejo de residuos, visite el Anexo_1_GestionInterna. Recuerde consignar sus conclusiones e información asimilada en su libreta personal de apuntes. 
+              p.mt-3.texto-blanco Para conocer los instrumentos de registro que favorecen el proceso de gestión interna en el manejo de residuos, visite el siguiente anexo, recuerde consignar sus conclusiones e información asimilada en su libreta personal de apuntes. 
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/ANEXO2-Gestion Interna.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Instrumentos_del_proceso_de_gestion_interna_en_el_manejo_de_residuos.pdf')" target="_blank")
                 span.texto-negro Descargar
                 i.texto-negro.fas.fa-file-download
     separador

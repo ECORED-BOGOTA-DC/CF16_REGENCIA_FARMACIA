@@ -46,7 +46,7 @@ export default {
           },
           {
             numero: '1.2',
-            titulo: 'Diseño de las instalaciones',
+            titulo: 'Resultados de la satisfacción del usuario',
             hash: 't_1_2',
           },
           {
@@ -175,7 +175,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/material.pdf',
+        download: 'downloads/331502_CF16_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -246,7 +246,7 @@ export default {
     {
       termino: 'Generador',
       significado:
-        'Persona natural o jurídica, pública o privada que produce o genera residuos en el desarrollo de las actividades derivadas de la atención en salud y similares',
+        'Persona natural o jurídica, pública o privada que produce o genera residuos en el desarrollo de las actividades derivadas de la atención en salud y similares.',
     },
     {
       termino:
